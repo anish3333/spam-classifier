@@ -13,7 +13,8 @@
     "axios": "^1.7.2",
     "classnames": "^2.5.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "uvcanvas": "^0.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
