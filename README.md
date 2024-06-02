@@ -38,9 +38,9 @@ This application consists of a React front end and a Flask back end. The front e
 
 2. **Start the React Front End:**
    ```bash
-   npm start
+   npm run dev
    ```
-   The React app will open in your default web browser at [http://localhost:3000](http://localhost:3000).
+   The React app will open in your default web browser at [http://localhost:5173](http://localhost:5173).
 
 3. **Enter a Message:**
    Enter a message in the input field and click the "Predict" button to classify it as spam or not spam.
